@@ -21,13 +21,7 @@
 					<section id="projects">
 					<ul id="thumbs" class="portfolio">
 						<?php
-						// producto($title,$imgSmall,$imgBig,$description)
-						producto(
-							'Mini Food <br>Chopper',
-							'img/productos/electrodomesticos/SAL-FP375.jpg',
-							'',
-							'<small>SAL-FP375</small><br>&raquo; 1.5 cup Bowl Capacity.<br>&raquo; Stainless Steel slicing and shredding disc.<br>&raquo; Chopping and mixing blade.<br>&raquo; Mixer.<br>&raquo; Food chute with pusher'
-							);
+						// producto($title,$imgSmall,$imgBig,$description)						
 						producto(
 							'Black Hand Mixer SALCAR <br>5 speed',
 							'img/productos/electrodomesticos/SAL-BATM002.jpg',
@@ -99,6 +93,12 @@
 							'img/productos/electrodomesticos/SAL-LICP004.jpg',
 							'',
 							'<small>SAL-LICP004</small><br>&raquo; Plastic jar with 1.5 liters capacity.<br>&raquo; 450W Power.'
+							);
+						producto(
+							'Mini Food <br>Chopper',
+							'img/productos/electrodomesticos/SAL-FP375.jpg',
+							'',
+							'<small>SAL-FP375</small><br>&raquo; 1.5 cup Bowl Capacity.<br>&raquo; Stainless Steel slicing and shredding disc.<br>&raquo; Chopping and mixing blade.<br>&raquo; Mixer.<br>&raquo; Food chute with pusher'
 							);
 						/*
 						producto(
